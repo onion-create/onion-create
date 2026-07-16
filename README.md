@@ -20,6 +20,8 @@
 
 Each built solo — Codex CLI, Claude Code CLI, WorkBuddy, Cursor. From observation to deployment.
 
+There are more observations. More tools. This is just the beginning of the list.
+
 ---
 
 ### Background
@@ -28,6 +30,10 @@ Each built solo — Codex CLI, Claude Code CLI, WorkBuddy, Cursor. From observat
 - Financial Mathematics, First-Class Honours (GPA 3.77/4.00)
 - McKinsey & Roland Berger trained
 - Based in Suzhou, China
+  
+### From Trade to Toolmaking
+I spent 5+ years navigating cross-border energy trade and compliance across Hong Kong and Southeast Asia — a career that teaches you to spot friction before it costs you money. When AI toolchains matured to the point where one person could design, build, and ship a production-grade application, the question flipped: not "who will solve this," but "how fast can I?"
+
 
 ---
 
