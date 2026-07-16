@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:你的邮箱@example.com">Email</a> ·
+  <a href="mailto:delreadingtheearth@gmail.com">Email</a> ·
   <a href="https://github.com/onion-create">GitHub</a>
 </p>
 
