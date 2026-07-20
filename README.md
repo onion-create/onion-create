@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>AI Product Builder.</strong> I find problems in overlooked domains, design the solution, and ship — end-to-end, without an engineering team.
+  <strong>AI Product Builder.</strong> I find problems in overlooked domains and design the solution
 </p>
 
 <p align="center">
