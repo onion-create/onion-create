@@ -43,11 +43,9 @@ Problem discovery
 ---
 
 ### Background
-
-- 5+ years cross-border trade & compliance across HK and Southeast Asia — energy and industrial materials
-- Now turning to AI product builder transforming real-world business insights into AI-native products.
 - Liverpool University / XJTLU - Financial Mathematics, First-Class Honours (GPA 3.77/4.00)
 - McKinsey & Roland Berger trained
+
 ---
 
 <sub>© 2026 (Yuan Ming)</sub>
