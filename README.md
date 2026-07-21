@@ -1,12 +1,12 @@
 <p align="center">
-  <strong>AI Product Builder.</strong> I find problems in overlooked domains and design the solution
-</p>
+  <strong>AI Product Builder.</strong> 
+  5+ years of cross-border trade & compliance across HK and Southeast Asia — energy and industrial materials.
+  Now turning to an AI product builder transforming real-world business insights into AI-native products.
 
 <p align="center">
   <a href="mailto:delreadingtheearth@gmail.com">Email</a> ·
   <a href="https://github.com/onion-create">GitHub</a>
 </p>
-
 
 ---
 
@@ -23,6 +23,22 @@ I build AI-native tools at the intersection of business intelligence, human beha
 Each built solo — Codex CLI, Claude Code CLI, WorkBuddy, Cursor. From observation to deployment.
 
 There are more observations. More tools. This is just the beginning of the list.
+
+---
+
+## Building Philosophy
+
+I believe the best AI products don't start with technology.
+
+They start with overlooked human problems.
+
+My approach:
+
+Problem discovery
+→ Product design
+→ AI-assisted development
+→ Deployment
+→ User feedback
 
 ---
 
