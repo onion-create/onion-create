@@ -1,6 +1,8 @@
 <p align="center">
-  <strong>AI Product Builder.</strong>
+  <strong> AI Product Builder .</strong>
+  
 5+ years of cross-border trade &amp; compliance across HK and Southeast Asia — energy and industrial materials.
+
 Now turning to an AI product builder transforming real-world business insights into AI-native products.
 </p>
 
