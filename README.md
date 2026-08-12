@@ -22,7 +22,7 @@ I build AI-native tools at the intersection of business intelligence, human beha
 | ✨ | [**Luminaria · 浮光词集**](https://github.com/onion-create/luminaria) | Vocabulary learning as an aesthetic experience — 34,479 words with 10,081 AI-labeled emotional halos, FSRS spaced repetition, and dual-mode spatial memory: 10 ambient animation families in Float mode, 8 emotional constellations of stars in Space mode. Offline PWA. [Live Demo](https://onion-create.github.io/luminaria/) |
 | 🛵 | [**Gigbook · 跑单记**](https://github.com/onion-create/gigbook) | A daily-settlement tracker purpose-built for China's 84M gig workers — income tracking across 美团/饿了么/闪送/顺丰同城/货拉拉/滴滴, AI income analysis, cost and time-value insights. Offline PWA, zero dependencies. [Live Demo](https://onion-create.github.io/gigbook/) |
 
-Each built solo — Codex CLI, Claude Code CLI, WorkBuddy, Cursor. From observation to deployment.
+Each built solo — Claude Code CLI, WorkBuddy. From observation to deployment.
 
 There are more observations. More tools. This is just the beginning of the list.
 
