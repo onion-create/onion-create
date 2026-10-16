@@ -43,11 +43,4 @@ Problem discovery
 
 ---
 
-### Background
-- Liverpool University / XJTLU - Financial Mathematics, First-Class Honours (GPA 3.77/4.00)
-- McKinsey & Roland Berger trained
-- Founder of a consulting company and a trading company
-
----
-
 <sub>© 2026 (Yuan Ming)</sub>
